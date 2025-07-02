@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wok-tadka-eats-flow</string>
+    <string name="title_activity_main">wok-tadka-eats-flow</string>
+    <string name="package_name">app.lovable.e6b34dcc36904c259710abcc80681bf5</string>
+    <string name="custom_url_scheme">app.lovable.e6b34dcc36904c259710abcc80681bf5</string>
+</resources>
